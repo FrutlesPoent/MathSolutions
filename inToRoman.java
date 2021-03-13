@@ -1,5 +1,5 @@
 class Solution {
-    
+
     final static private char one = 'I'; // 1
     final static private char five = 'V'; // 5
     final static private char ten = 'X'; // 10
